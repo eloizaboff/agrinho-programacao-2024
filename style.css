@@ -5,11 +5,11 @@
 }
 
 body{
-    background-color: rgb(247, 249, 250);
+    background-color: lightskyblue;
 }
 
 .cabeçalho {
-    background-color: lightgreen;
+    background-color: rgb(247, 250, 247);
     display: flex;
     justify-content: space-around;
     align-items: center;
