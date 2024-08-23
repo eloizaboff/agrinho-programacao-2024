@@ -5,7 +5,7 @@
 }
 
 body{
-    background-color: lightgreen;
+    background-color: rgb(238, 242, 243);
 }
 
 .cabeçalho {
@@ -21,7 +21,7 @@ cabeçalho-título {
 }
 
 .cabeçalho-lista {
-    color: white;
+    color: rgb(70, 190, 245);
     font-size: 45px;
 }
 
