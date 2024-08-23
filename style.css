@@ -4,6 +4,10 @@
     font-family: "Open Sans", sans-serif;
 }
 
+body{
+    background-color: lightgreen;
+}
+
 .cabeçalho {
     background-color: lightgreen;
     display: flex;
