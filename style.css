@@ -36,7 +36,7 @@ cabeçalho-lista-item2 {
 
 .nossa-escola {
     background-image: linear-gradient(#300301, #960903);
-    color: white;
+    color: rgb(139, 241, 107);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -68,7 +68,7 @@ cabeçalho-lista-item2 {
 }
 
 .equipe {
-    background-color: #cd5f05db;
+    background-color: #acf571db;
     color: white;
 }
 
@@ -104,8 +104,7 @@ rodapé{
 }
 
 .rodapé-imagem{
-    width: 150px;
-}
+    width: 300px;
 
 .rodapé-ícone{
     width: 30px;
