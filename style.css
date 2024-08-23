@@ -5,7 +5,7 @@
 }
 
 .cabeçalho {
-    background-color: rgb(47, 255, 0);
+    background-color: lightgreen;
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -71,6 +71,7 @@ cabeçalho-lista-item2 {
     background-color: #acf571db;
     color: white;
 }
+
 
 .professor{
     width: 120px;
