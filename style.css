@@ -28,6 +28,12 @@ cabeçalho-título {
 .cabecalho-logotipo {
     width: 120px;
 }
+ 
+.insta {
+    width: 150;
+    height: 100;
+}
+
 
 .cabeçalho-lista-item1 {
     display: inline-block;
