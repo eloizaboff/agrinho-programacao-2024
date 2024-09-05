@@ -29,9 +29,16 @@ cabeçalho-título {
     width: 120px;
 }
  
-.insta {
-    width: 1500;
-    height: 1000;
+container img {
+    max-width: 200px;
+    max-height:250px;
+}
+.container {
+    clear: both;
+    margin-top: 20px;
+}
+img {
+    vertical-align: top
 }
 
 
