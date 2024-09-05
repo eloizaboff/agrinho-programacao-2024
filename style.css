@@ -29,7 +29,7 @@ cabeçalho-título {
     width: 120px;
 }
  
-.container img { max-width: 8px; }
+img { float: left; width: 8em; height: 8em; edge-right: 1em; }
 
 
 .cabeçalho-lista-item1 {
