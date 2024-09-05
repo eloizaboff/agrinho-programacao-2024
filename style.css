@@ -29,7 +29,7 @@ cabeçalho-título {
     width: 120px;
 }
  
-container img {
+.container img {
     max-width: 200px;
     max-height:250px;
 }
