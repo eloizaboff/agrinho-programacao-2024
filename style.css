@@ -30,12 +30,12 @@ cabeçalho-título {
 }
  
 .container img {
-    max-width: 200px;
-    max-height:250px;
+    max-width: 1000px;
+    max-height: 1000px;
 }
 .container {
     clear: both;
-    margin-top: 20px;
+    margin-top: 50px;
 }
 img {
     vertical-align: top
